@@ -1,4 +1,4 @@
-# Token
+    # Token
 Simple tokens for TON.
 ## Internal token
 Token on internal messages. It only can process transfer requests from other contracts.
